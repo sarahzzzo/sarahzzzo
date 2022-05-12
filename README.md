@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sarahzzzo
 - 👀 I’m interested in reading/playing guitar/snowboarding
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ...
+- 🌱 I’m currently learning blockchain & web3
+- 💞️ I’m looking to collaborate on financial applications
 
 <!---
 sarahzzzo/sarahzzzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
